@@ -21,3 +21,15 @@ header {
         text-decoration: none;
     }
 }
+
+.profileWrap {
+    .profileContent {
+        display: flex;
+
+        .profileImg {
+            width: 65px;
+            height: 65px;
+            border-radius: 100%;
+        }
+    }
+}
